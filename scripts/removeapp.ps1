@@ -23,7 +23,6 @@ get-appxpackage *bingnews* | remove-appxpackage
 get-appxpackage *onenote* | remove-appxpackage
 get-appxpackage *oneconnect* | remove-appxpackage
 get-appxpackage *mspaint* | remove-appxpackage
-get-appxpackage *people* | remove-appxpackage
 get-appxpackage *commsphone* | remove-appxpackage
 get-appxpackage *windowsphone* | remove-appxpackage
 get-appxpackage *phone* | remove-appxpackage
@@ -34,5 +33,4 @@ get-appxpackage *sway* | remove-appxpackage
 get-appxpackage *3d* | remove-appxpackage
 get-appxpackage *soundrecorder* | remove-appxpackage
 get-appxpackage *bingweather* | remove-appxpackage
-get-appxpackage *holographic* | remove-appxpackage
 get-appxpackage *windowsstore* | remove-appxpackage
