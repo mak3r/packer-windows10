@@ -6,3 +6,6 @@
 /output-virtualbox-ovf/
 /*.box
 /packer_cache/
+
+#vagrant
+.vagrant/
