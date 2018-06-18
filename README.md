@@ -88,7 +88,7 @@ $ VBoxManage.exe list vms
 2. package the box for use with vagrant
 Make sure to package it with your working currently working vagrantfile as in this command:
 ```
-$ vagrant package --base win10_default_1524848325109_18374 --vagrantfile ./vagrantfile-vs2017.template ./win10_vs2017.virtualbox.box
+$ vagrant package --base win10_default_1524848325109_18374 --vagrantfile ./vagrantfile-vs2017.template --output ./win10_vs2017.virtualbox.box
 ```
 3. Add the box to vagrant
 ```
